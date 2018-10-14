@@ -13,7 +13,6 @@ def get_total(i, j, n, m,map):
                 map[i + a[0]][j + a[1]] = 0
         del seat[0]
 
-
     return sum_map
 
 
